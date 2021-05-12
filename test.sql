@@ -3,6 +3,6 @@ SELECT
     column2, 
     column3
 FROM 
-    my.database
+    my.table
 WHERE 
     this = that 
